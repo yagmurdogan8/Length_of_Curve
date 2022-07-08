@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA2\ProgrammingLanguageConceptsA2\obj\Debug\netcoreapp3.1\ProgrammingLanguageConceptsA2.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA2\ProgrammingLanguageConceptsA2\obj\Debug\netcoreapp3.1\ProgrammingLanguageConceptsA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA2\ProgrammingLanguageConceptsA2\obj\Debug\netcoreapp3.1\ProgrammingLanguageConceptsA2.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA2\ProgrammingLanguageConceptsA2\obj\Debug\netcoreapp3.1\ProgrammingLanguageConceptsA2.AssemblyInfo.cs
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA2\ProgrammingLanguageConceptsA2\obj\Debug\netcoreapp3.1\ProgrammingLanguageConceptsA2.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA2\ProgrammingLanguageConceptsA2\bin\Debug\netcoreapp3.1\ProgrammingLanguageConceptsA2.exe
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA2\ProgrammingLanguageConceptsA2\bin\Debug\netcoreapp3.1\ProgrammingLanguageConceptsA2.deps.json
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA2\ProgrammingLanguageConceptsA2\bin\Debug\netcoreapp3.1\ProgrammingLanguageConceptsA2.runtimeconfig.json
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA2\ProgrammingLanguageConceptsA2\bin\Debug\netcoreapp3.1\ProgrammingLanguageConceptsA2.runtimeconfig.dev.json
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA2\ProgrammingLanguageConceptsA2\bin\Debug\netcoreapp3.1\ProgrammingLanguageConceptsA2.dll
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA2\ProgrammingLanguageConceptsA2\bin\Debug\netcoreapp3.1\ProgrammingLanguageConceptsA2.pdb
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA2\ProgrammingLanguageConceptsA2\obj\Debug\netcoreapp3.1\ProgrammingLanguageConceptsA2.dll
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA2\ProgrammingLanguageConceptsA2\obj\Debug\netcoreapp3.1\ProgrammingLanguageConceptsA2.pdb
+C:\Users\1\source\repos\ProgrammingLanguageConceptsA2\ProgrammingLanguageConceptsA2\obj\Debug\netcoreapp3.1\ProgrammingLanguageConceptsA2.genruntimeconfig.cache
